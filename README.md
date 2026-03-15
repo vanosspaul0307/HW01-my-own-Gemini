@@ -1,4 +1,3 @@
-```markdown
 # HW01 - My ChatGPT Clone
 
 本專案為基於 **FastAPI** 與 **HTML/JS** 實作之網頁端 ChatGPT 應用程式，已串接最新版 **Google Gemini API**，並完整實作講義要求之五大核心功能。
@@ -18,7 +17,7 @@
   ```text
   GEMINI_API_KEY=你的金鑰字串
 
-```
+
 
 ### 2. 安裝依賴套件
 
@@ -62,7 +61,7 @@ uvicorn main:app --reload
 
 * **操作：** 於左側下拉選單切換模型。
 * **輸入提示詞：** > 「請給我一篇 1000 字的繁體中文文章，介紹人工智慧的歷史。」
-* **驗證：** 觀察畫面是否呈現 **逐字輸出的打字機效果**，且模型能正常切換並回覆。
+* **驗證：** 觀察畫面是否呈現 **逐字輸出的打字機效果**，且模型能正常切換並回覆(Gemini 2.5 flash-lite輸出速度會明顯快於Gemini 2.5 flash)。
 
 ### 2. System Prompt 測試
 
