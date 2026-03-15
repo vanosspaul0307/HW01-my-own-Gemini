@@ -1,6 +1,6 @@
-# HW01 - My ChatGPT Clone
+# HW01 - My own Gemini
 
-本專案為基於 **FastAPI** 與 **HTML/JS** 實作之網頁端 ChatGPT 應用程式，已串接最新版 **Google Gemini API**，並完整實作講義要求之五大核心功能。
+本專案為基於 **FastAPI** 與 **HTML/JS** 實作之網頁端 Gemini 應用程式，已串接最新版 **Google Gemini API**。
 
 ##  作者資訊
 * **系級：** 交大資工系 112 級
