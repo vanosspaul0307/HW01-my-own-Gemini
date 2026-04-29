@@ -22,6 +22,11 @@
 ### 2. 安裝依賴套件
 
 * 開啟終端機 (建議使用 Anaconda Prompt)。
+* 建立 Conda 虛擬環境
+```bash
+conda create --name hw01_env python=3.10
+
+```
 * 啟動虛擬環境 (請根據自身資料夾名稱修改)：
 ```bash
 conda activate hw01_env
